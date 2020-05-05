@@ -7,5 +7,9 @@ public class APITest {
 	public void APItest() {
 		System.out.println("this is API selenium");
 	}
+	@Test
+	public void test1() {
+		System.out.println("test1");
+	}
 
 }
